@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ee78933d-7357-44c3-8723-0b11aad8ae6f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/notebook.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/notebook-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/notebook-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebook.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebook.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="ee78933d-7357-44c3-8723-0b11aad8ae6f" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -110,6 +105,7 @@
       <updated>1602009655669</updated>
       <workItem from="1602009672414" duration="5504000" />
       <workItem from="1602092774511" duration="18631000" />
+      <workItem from="1602518417012" duration="35000" />
     </task>
     <servers />
   </component>
@@ -136,10 +132,10 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="345" y="155" width="620" height="583" key="#xdebugger.evaluate/0.0.1366.738@0.0.1366.738" timestamp="1602170480438" />
-    <state x="463" y="126" key="FileChooserDialogImpl" timestamp="1602010050290">
+    <state x="463" y="126" key="FileChooserDialogImpl" timestamp="1602518442929">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="463" y="126" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1602010050290" />
+    <state x="463" y="126" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1602518442929" />
     <state width="1323" height="277" key="GridCell.Tab.0.bottom" timestamp="1602262478871">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
@@ -172,10 +168,10 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state width="1323" height="277" key="GridCell.Tab.1.right/0.0.1366.738@0.0.1366.738" timestamp="1602262478871" />
-    <state x="391" y="196" key="com.intellij.ide.util.TipDialog" timestamp="1602092776534">
+    <state x="391" y="196" key="com.intellij.ide.util.TipDialog" timestamp="1602518417046">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="391" y="196" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" timestamp="1602092776534" />
+    <state x="391" y="196" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" timestamp="1602518417046" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/DataProcessing$main.coverage" NAME="main Coverage Results" MODIFIED="1602180870311" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
